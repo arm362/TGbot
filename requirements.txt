@@ -1,3 +1,4 @@
 pyTelegramBotAPI
-pymongo
+sqlite3
+telebot
 dnspython         
