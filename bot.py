@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 
 # Տվյալներ
-TOKEN = '8569660174:AAHvzCs5EV9_YmA1ESTkoZC57JxBy_1H5VU'
+TOKEN = 'токен'
 bot = telebot.TeleBot(TOKEN)
 SUPER_ADMIN_ID = 1437869354  # Քո ID-ն
 
